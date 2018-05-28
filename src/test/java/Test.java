@@ -41,7 +41,7 @@ public class Test {
     public void test05(){
     MySpider spider = new MySpider();
    for(int i= 1 ;i<=10;i++){
-       spider.start("美女",i,"e:\\","e:\\image");
+       spider.start("花",i,"e:\\","e:\\image");
    }
     }
 }
